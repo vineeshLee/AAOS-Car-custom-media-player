@@ -24,10 +24,11 @@
         </activity>
 
         <service
-            android:name=".MusicBrowserService"
+            android:name=".VideoCarAppService"
             android:exported="true">
             <intent-filter>
-                <action android:name="android.media.browse.MediaBrowserService" />
+                <action android:name="androidx.car.app.CarAppService" />
+                <category android:name="androidx.car.app.category.VIDEO" />
             </intent-filter>
         </service>
     </application>

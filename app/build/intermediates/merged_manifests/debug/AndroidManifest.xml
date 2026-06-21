@@ -39,8 +39,7 @@
         android:extractNativeLibs="false"
         android:icon="@drawable/ic_music"
         android:label="Music Player"
-        android:supportsRtl="true"
-        android:testOnly="true" >
+        android:supportsRtl="true" >
         <meta-data
             android:name="com.android.automotive"
             android:resource="@xml/automotive_app_desc" />
@@ -57,10 +56,12 @@
         </activity>
 
         <service
-            android:name="com.example.musicplayer.MusicBrowserService"
+            android:name="com.example.musicplayer.VideoCarAppService"
             android:exported="true" >
             <intent-filter>
-                <action android:name="android.media.browse.MediaBrowserService" />
+                <action android:name="androidx.car.app.CarAppService" />
+
+                <category android:name="androidx.car.app.category.VIDEO" />
             </intent-filter>
         </service>
         <service
