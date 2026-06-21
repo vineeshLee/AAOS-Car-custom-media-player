@@ -6,7 +6,14 @@ Unlike standard Android mobile apps, this project uses the Android Automotive Me
 
 ## 📸 Preview
 
-![AAOS Media Player Screenshot](screenshot.png)
+### Library View
+![Library View](screenshot1.png)
+
+### Now Playing (Paused)
+![Now Playing Paused](screenshot2.png)
+
+### Now Playing (Active)
+![Now Playing Active](screenshot3.png)
 
 ## 🎵 Features
 * **Native OS Integration**: Uses `MediaBrowserServiceCompat` to render UI completely through the car's native Media Center.
