@@ -1,0 +1,153 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.musicplayer"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:35:5-74
+8        android:minSdkVersion="30"
+8-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:35:15-41
+9        android:targetSdkVersion="34" />
+9-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:35:42-71
+10
+11    <uses-feature
+11-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:4:5-92
+12        android:name="android.hardware.type.automotive"
+12-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:4:19-66
+13        android:required="true" />
+13-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:4:67-90
+14
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:36:5-66
+15-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:36:22-64
+16
+17    <queries>
+17-->[androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:23:5-27:15
+18        <intent>
+18-->[androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:24:9-26:18
+19            <action android:name="android.car.template.host.RendererService" />
+19-->[androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:25:13-80
+19-->[androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:25:21-77
+20        </intent>
+21
+22        <provider
+22-->[androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:24:9-27:43
+23            android:name="androidx.car.app.connection.provider"
+23-->[androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:25:13-64
+24            android:authorities="androidx.car.app.connection" />
+24-->[androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:26:13-62
+25    </queries>
+26
+27    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+27-->[com.google.android.exoplayer:exoplayer-core:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/5345d4319cb911a4528d267a5d11be4a/transformed/jetified-exoplayer-core-2.19.1/AndroidManifest.xml:24:5-79
+27-->[com.google.android.exoplayer:exoplayer-core:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/5345d4319cb911a4528d267a5d11be4a/transformed/jetified-exoplayer-core-2.19.1/AndroidManifest.xml:24:22-76
+28
+29    <permission
+29-->[androidx.core:core:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+30        android:name="com.example.musicplayer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+30-->[androidx.core:core:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+31        android:protectionLevel="signature" />
+31-->[androidx.core:core:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+32
+33    <uses-permission android:name="com.example.musicplayer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+33-->[androidx.core:core:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+33-->[androidx.core:core:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+34
+35    <application
+35-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:6:5-33:19
+36        android:allowBackup="true"
+36-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:7:9-35
+37        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+37-->[androidx.core:core:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+38        android:debuggable="true"
+39        android:extractNativeLibs="false"
+40        android:icon="@drawable/ic_music"
+40-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:9:9-42
+41        android:label="Music Player"
+41-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:8:9-37
+42        android:supportsRtl="true"
+42-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:10:9-35
+43        android:testOnly="true" >
+44        <meta-data
+44-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:12:9-14:59
+45            android:name="com.android.automotive"
+45-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:13:13-50
+46            android:resource="@xml/automotive_app_desc" />
+46-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:14:13-56
+47
+48        <activity
+48-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:16:9-24:20
+49            android:name="com.example.musicplayer.MainActivity"
+49-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:17:13-41
+50            android:exported="true"
+50-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:18:13-36
+51            android:theme="@android:style/Theme.NoDisplay" >
+51-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:19:13-59
+52            <intent-filter>
+52-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:20:13-23:29
+53                <action android:name="android.intent.action.MAIN" />
+53-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:21:17-69
+53-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:21:25-66
+54
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:22:17-77
+55-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:22:27-74
+56            </intent-filter>
+57        </activity>
+58
+59        <service
+59-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:26:9-32:19
+60            android:name="com.example.musicplayer.MusicBrowserService"
+60-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:27:13-48
+61            android:exported="true" >
+61-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:28:13-36
+62            <intent-filter>
+62-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:29:13-31:29
+63                <action android:name="android.media.browse.MediaBrowserService" />
+63-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:30:17-83
+63-->/Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:30:25-80
+64            </intent-filter>
+65        </service>
+66        <service
+66-->[androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:34:9-47:19
+67            android:name="androidx.car.app.CarAppMetadataHolderService"
+67-->[androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:35:13-72
+68            android:enabled="false"
+68-->[androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:36:13-36
+69            android:exported="false"
+69-->[androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:37:13-37
+70            android:process="" >
+70-->[androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:38:13-31
+71            <meta-data
+71-->[androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:41:13-43:90
+72                android:name="androidx.car.app.CarAppMetadataHolderService.CAR_HARDWARE_MANAGER"
+72-->[androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:42:17-97
+73                android:value="androidx.car.app.hardware.AutomotiveCarHardwareManager" />
+73-->[androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:43:17-87
+74            <meta-data
+74-->[androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:44:13-46:85
+75                android:name="androidx.car.app.CarAppMetadataHolderService.RESULT_MANAGER"
+75-->[androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:45:17-91
+76                android:value="androidx.car.app.activity.ResultManagerAutomotive" />
+76-->[androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:46:17-82
+77        </service>
+78
+79        <activity
+79-->[androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:31:9-34:75
+80            android:name="androidx.car.app.CarAppPermissionActivity"
+80-->[androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:32:13-69
+81            android:exported="false"
+81-->[androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:33:13-37
+82            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+82-->[androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:34:13-72
+83
+84        <receiver
+84-->[androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:36:9-38:40
+85            android:name="androidx.car.app.notification.CarAppNotificationBroadcastReceiver"
+85-->[androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:37:13-93
+86            android:exported="false" />
+86-->[androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:38:13-37
+87    </application>
+88
+89</manifest>

@@ -1,0 +1,287 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:17:1-50:12
+MERGED from [androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:17:1-41:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/3665a2dc45485bc39778297d8902c47a/transformed/jetified-exoplayer-2.19.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/8eea5b8378e8846fbabfdd31bbbd435b/transformed/jetified-exoplayer-ui-2.19.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.6.0] /Users/vineeshkumar/.gradle/caches/transforms-3/0db408d97a873a29852b028b98a9bef4/transformed/media-1.6.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.0] /Users/vineeshkumar/.gradle/caches/transforms-3/48e84ca10d78c932df4d8fee334542d9/transformed/fragment-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.0] /Users/vineeshkumar/.gradle/caches/transforms-3/f7eae26044862a1b1db4030100aff679/transformed/jetified-activity-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/36f7ca4fee62c32dede3fabd6ace8ee4/transformed/jetified-exoplayer-dash-2.19.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/28b29aed899441fcdf6fc36f44114468/transformed/jetified-exoplayer-hls-2.19.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/ed54de2231aa789c88d6c8076370fddd/transformed/jetified-exoplayer-rtsp-2.19.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/8334475782e9105cd0ab967a65866c73/transformed/jetified-exoplayer-smoothstreaming-2.19.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/5345d4319cb911a4528d267a5d11be4a/transformed/jetified-exoplayer-core-2.19.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vineeshkumar/.gradle/caches/transforms-3/4a4c9b2abf69f3bbeb3a4b606fc6db70/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/vineeshkumar/.gradle/caches/transforms-3/f6bc2c3a48183539172c800a05fa3424/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] /Users/vineeshkumar/.gradle/caches/transforms-3/1dfa89fec6f3c37187c3ec8b926d0635/transformed/recyclerview-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/vineeshkumar/.gradle/caches/transforms-3/ab3b660112d36204ef4ecb5ddbf0c8c6/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/vineeshkumar/.gradle/caches/transforms-3/f296a05445b0ff414fae41ef9328552d/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/ae5f40221879461a86e7bb52852599eb/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.1] /Users/vineeshkumar/.gradle/caches/transforms-3/397e517476a38248798c3fe6c962f799/transformed/jetified-annotation-experimental-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vineeshkumar/.gradle/caches/transforms-3/b91cea8371706e0d85023a413cf2ec8c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/84837b75eb7de139fdcfcf05f94f5f2d/transformed/jetified-exoplayer-datasource-2.19.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/e786527b388ea6b67b2d2fda8b8a629a/transformed/jetified-exoplayer-database-2.19.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/fbfc8de40a37a90fd775c9a163beaf94/transformed/jetified-exoplayer-extractor-2.19.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/17230b0dbf6a4c771ff635897dd4c27a/transformed/jetified-exoplayer-decoder-2.19.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-container:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/71214aea27207d025fd9a864d75c5195/transformed/jetified-exoplayer-container-2.19.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/8cc6c0ab993921a48d128ab74996ec95/transformed/jetified-exoplayer-common-2.19.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vineeshkumar/.gradle/caches/transforms-3/3fb8a3120f80c8c1547e854583e5e562/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/vineeshkumar/.gradle/caches/transforms-3/81676a1e3c12c86d82bb130b10fee1c9/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] /Users/vineeshkumar/.gradle/caches/transforms-3/c622e4e71644ad2e07195e741037b784/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/vineeshkumar/.gradle/caches/transforms-3/59a7202d84f14b63fecc272b6441e066/transformed/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/vineeshkumar/.gradle/caches/transforms-3/54ec45ef0aca809eb244a373b7d377a8/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e02df9ad2c23fd45afd2bae302742e29/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vineeshkumar/.gradle/caches/transforms-3/943be576dd930d1761c161c3237eaadb/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a0a35ceec146f8b674d4aa5d0eeea093/transformed/lifecycle-livedata-core-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/vineeshkumar/.gradle/caches/transforms-3/07484c8d08512401480e4d717e8674eb/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.type.automotive
+ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:4:5-92
+MERGED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:29:5-31:36
+MERGED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:29:5-31:36
+	android:required
+		ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:4:67-90
+	android:name
+		ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:4:19-66
+application
+ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:6:5-33:19
+INJECTED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:6:5-33:19
+MERGED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:33:5-48:19
+MERGED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:33:5-48:19
+MERGED from [androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:30:5-39:19
+MERGED from [androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:30:5-39:19
+MERGED from [androidx.core:core:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vineeshkumar/.gradle/caches/transforms-3/b91cea8371706e0d85023a413cf2ec8c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vineeshkumar/.gradle/caches/transforms-3/b91cea8371706e0d85023a413cf2ec8c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:8:9-37
+	android:icon
+		ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:9:9-42
+	android:allowBackup
+		ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:7:9-35
+meta-data#com.android.automotive
+ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:12:9-14:59
+	android:resource
+		ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:13:13-50
+activity#com.example.musicplayer.MainActivity
+ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:exported
+		ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:18:13-36
+	android:theme
+		ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:19:13-59
+	android:name
+		ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:22:27-74
+service#com.example.musicplayer.MusicBrowserService
+ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:26:9-32:19
+	android:exported
+		ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:27:13-48
+intent-filter#action:name:android.media.browse.MediaBrowserService
+ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:29:13-31:29
+action#android.media.browse.MediaBrowserService
+ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:30:17-83
+	android:name
+		ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:30:25-80
+uses-sdk
+ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:35:5-74
+INJECTED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:35:5-74
+INJECTED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:35:5-74
+MERGED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/3665a2dc45485bc39778297d8902c47a/transformed/jetified-exoplayer-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/3665a2dc45485bc39778297d8902c47a/transformed/jetified-exoplayer-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/8eea5b8378e8846fbabfdd31bbbd435b/transformed/jetified-exoplayer-ui-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/8eea5b8378e8846fbabfdd31bbbd435b/transformed/jetified-exoplayer-ui-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] /Users/vineeshkumar/.gradle/caches/transforms-3/0db408d97a873a29852b028b98a9bef4/transformed/media-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] /Users/vineeshkumar/.gradle/caches/transforms-3/0db408d97a873a29852b028b98a9bef4/transformed/media-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0] /Users/vineeshkumar/.gradle/caches/transforms-3/48e84ca10d78c932df4d8fee334542d9/transformed/fragment-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0] /Users/vineeshkumar/.gradle/caches/transforms-3/48e84ca10d78c932df4d8fee334542d9/transformed/fragment-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0] /Users/vineeshkumar/.gradle/caches/transforms-3/f7eae26044862a1b1db4030100aff679/transformed/jetified-activity-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0] /Users/vineeshkumar/.gradle/caches/transforms-3/f7eae26044862a1b1db4030100aff679/transformed/jetified-activity-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/36f7ca4fee62c32dede3fabd6ace8ee4/transformed/jetified-exoplayer-dash-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/36f7ca4fee62c32dede3fabd6ace8ee4/transformed/jetified-exoplayer-dash-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/28b29aed899441fcdf6fc36f44114468/transformed/jetified-exoplayer-hls-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/28b29aed899441fcdf6fc36f44114468/transformed/jetified-exoplayer-hls-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/ed54de2231aa789c88d6c8076370fddd/transformed/jetified-exoplayer-rtsp-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/ed54de2231aa789c88d6c8076370fddd/transformed/jetified-exoplayer-rtsp-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/8334475782e9105cd0ab967a65866c73/transformed/jetified-exoplayer-smoothstreaming-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/8334475782e9105cd0ab967a65866c73/transformed/jetified-exoplayer-smoothstreaming-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/5345d4319cb911a4528d267a5d11be4a/transformed/jetified-exoplayer-core-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/5345d4319cb911a4528d267a5d11be4a/transformed/jetified-exoplayer-core-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vineeshkumar/.gradle/caches/transforms-3/4a4c9b2abf69f3bbeb3a4b606fc6db70/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vineeshkumar/.gradle/caches/transforms-3/4a4c9b2abf69f3bbeb3a4b606fc6db70/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vineeshkumar/.gradle/caches/transforms-3/f6bc2c3a48183539172c800a05fa3424/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vineeshkumar/.gradle/caches/transforms-3/f6bc2c3a48183539172c800a05fa3424/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] /Users/vineeshkumar/.gradle/caches/transforms-3/1dfa89fec6f3c37187c3ec8b926d0635/transformed/recyclerview-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] /Users/vineeshkumar/.gradle/caches/transforms-3/1dfa89fec6f3c37187c3ec8b926d0635/transformed/recyclerview-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vineeshkumar/.gradle/caches/transforms-3/ab3b660112d36204ef4ecb5ddbf0c8c6/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vineeshkumar/.gradle/caches/transforms-3/ab3b660112d36204ef4ecb5ddbf0c8c6/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/vineeshkumar/.gradle/caches/transforms-3/f296a05445b0ff414fae41ef9328552d/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/vineeshkumar/.gradle/caches/transforms-3/f296a05445b0ff414fae41ef9328552d/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/ae5f40221879461a86e7bb52852599eb/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/ae5f40221879461a86e7bb52852599eb/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.1] /Users/vineeshkumar/.gradle/caches/transforms-3/397e517476a38248798c3fe6c962f799/transformed/jetified-annotation-experimental-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.1] /Users/vineeshkumar/.gradle/caches/transforms-3/397e517476a38248798c3fe6c962f799/transformed/jetified-annotation-experimental-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vineeshkumar/.gradle/caches/transforms-3/b91cea8371706e0d85023a413cf2ec8c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vineeshkumar/.gradle/caches/transforms-3/b91cea8371706e0d85023a413cf2ec8c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/84837b75eb7de139fdcfcf05f94f5f2d/transformed/jetified-exoplayer-datasource-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/84837b75eb7de139fdcfcf05f94f5f2d/transformed/jetified-exoplayer-datasource-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/e786527b388ea6b67b2d2fda8b8a629a/transformed/jetified-exoplayer-database-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/e786527b388ea6b67b2d2fda8b8a629a/transformed/jetified-exoplayer-database-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/fbfc8de40a37a90fd775c9a163beaf94/transformed/jetified-exoplayer-extractor-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/fbfc8de40a37a90fd775c9a163beaf94/transformed/jetified-exoplayer-extractor-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/17230b0dbf6a4c771ff635897dd4c27a/transformed/jetified-exoplayer-decoder-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/17230b0dbf6a4c771ff635897dd4c27a/transformed/jetified-exoplayer-decoder-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-container:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/71214aea27207d025fd9a864d75c5195/transformed/jetified-exoplayer-container-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-container:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/71214aea27207d025fd9a864d75c5195/transformed/jetified-exoplayer-container-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/8cc6c0ab993921a48d128ab74996ec95/transformed/jetified-exoplayer-common-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/8cc6c0ab993921a48d128ab74996ec95/transformed/jetified-exoplayer-common-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vineeshkumar/.gradle/caches/transforms-3/3fb8a3120f80c8c1547e854583e5e562/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vineeshkumar/.gradle/caches/transforms-3/3fb8a3120f80c8c1547e854583e5e562/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/vineeshkumar/.gradle/caches/transforms-3/81676a1e3c12c86d82bb130b10fee1c9/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/vineeshkumar/.gradle/caches/transforms-3/81676a1e3c12c86d82bb130b10fee1c9/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] /Users/vineeshkumar/.gradle/caches/transforms-3/c622e4e71644ad2e07195e741037b784/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] /Users/vineeshkumar/.gradle/caches/transforms-3/c622e4e71644ad2e07195e741037b784/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/vineeshkumar/.gradle/caches/transforms-3/59a7202d84f14b63fecc272b6441e066/transformed/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/vineeshkumar/.gradle/caches/transforms-3/59a7202d84f14b63fecc272b6441e066/transformed/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/vineeshkumar/.gradle/caches/transforms-3/54ec45ef0aca809eb244a373b7d377a8/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/vineeshkumar/.gradle/caches/transforms-3/54ec45ef0aca809eb244a373b7d377a8/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e02df9ad2c23fd45afd2bae302742e29/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e02df9ad2c23fd45afd2bae302742e29/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vineeshkumar/.gradle/caches/transforms-3/943be576dd930d1761c161c3237eaadb/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vineeshkumar/.gradle/caches/transforms-3/943be576dd930d1761c161c3237eaadb/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a0a35ceec146f8b674d4aa5d0eeea093/transformed/lifecycle-livedata-core-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a0a35ceec146f8b674d4aa5d0eeea093/transformed/lifecycle-livedata-core-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/vineeshkumar/.gradle/caches/transforms-3/07484c8d08512401480e4d717e8674eb/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/vineeshkumar/.gradle/caches/transforms-3/07484c8d08512401480e4d717e8674eb/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:35:42-71
+		INJECTED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:35:15-41
+		INJECTED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:36:5-66
+	android:name
+		ADDED from /Users/vineeshkumar/Desktop/CarNavigation/music-player-app/app/src/main/AndroidManifest.xml:36:22-64
+queries
+ADDED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:23:5-27:15
+MERGED from [androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:23:5-28:15
+MERGED from [androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:23:5-28:15
+intent#action:name:android.car.template.host.RendererService
+ADDED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:24:9-26:18
+action#android.car.template.host.RendererService
+ADDED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:25:13-80
+	android:name
+		ADDED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:25:21-77
+service#androidx.car.app.CarAppMetadataHolderService
+ADDED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:34:9-47:19
+	tools:node
+		ADDED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:40:13-31
+	android:process
+		ADDED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:38:13-31
+	android:enabled
+		ADDED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:36:13-36
+	android:exported
+		ADDED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:37:13-37
+	tools:ignore
+		ADDED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:39:13-75
+	android:name
+		ADDED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:35:13-72
+meta-data#androidx.car.app.CarAppMetadataHolderService.CAR_HARDWARE_MANAGER
+ADDED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:41:13-43:90
+	android:value
+		ADDED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:43:17-87
+	android:name
+		ADDED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:42:17-97
+meta-data#androidx.car.app.CarAppMetadataHolderService.RESULT_MANAGER
+ADDED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:44:13-46:85
+	android:value
+		ADDED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:46:17-82
+	android:name
+		ADDED from [androidx.car.app:app-automotive:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/AndroidManifest.xml:45:17-91
+provider#androidx.car.app.connection.provider
+ADDED from [androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:24:9-27:43
+	android:authorities
+		ADDED from [androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:26:13-62
+	tools:ignore
+		ADDED from [androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:27:13-40
+	android:name
+		ADDED from [androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:25:13-64
+activity#androidx.car.app.CarAppPermissionActivity
+ADDED from [androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:31:9-34:75
+	android:exported
+		ADDED from [androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:33:13-37
+	android:theme
+		ADDED from [androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:32:13-69
+receiver#androidx.car.app.notification.CarAppNotificationBroadcastReceiver
+ADDED from [androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [androidx.car.app:app:1.4.0] /Users/vineeshkumar/.gradle/caches/transforms-3/758d2f8a8b4935aafa215f9dca4e702f/transformed/jetified-app-1.4.0/AndroidManifest.xml:37:13-93
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/5345d4319cb911a4528d267a5d11be4a/transformed/jetified-exoplayer-core-2.19.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/8cc6c0ab993921a48d128ab74996ec95/transformed/jetified-exoplayer-common-2.19.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/8cc6c0ab993921a48d128ab74996ec95/transformed/jetified-exoplayer-common-2.19.1/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.19.1] /Users/vineeshkumar/.gradle/caches/transforms-3/5345d4319cb911a4528d267a5d11be4a/transformed/jetified-exoplayer-core-2.19.1/AndroidManifest.xml:24:22-76
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.example.musicplayer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.musicplayer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/AndroidManifest.xml:26:22-94

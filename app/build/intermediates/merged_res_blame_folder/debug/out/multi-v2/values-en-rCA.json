@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.musicplayer.app-mergeDebugResources-16:/values-en-rCA/values-en-rCA.xml",
+            "map": [
+                {
+                    "source": "/Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/res/values-en-rCA/values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,253,352,451,555,657,773",
+                        "endColumns": "95,101,98,98,103,101,115,100",
+                        "endOffsets": "146,248,347,446,550,652,768,869"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,20",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,253,352,451,555,657,1967",
+                        "endColumns": "95,101,98,98,103,101,115,100",
+                        "endOffsets": "146,248,347,446,550,652,768,2063"
+                    }
+                },
+                {
+                    "source": "/Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/res/values-en-rCA/values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,233,334,489,613,709,821,931,1038,1149",
+                        "endColumns": "95,81,100,154,123,95,111,109,106,110,99",
+                        "endOffsets": "146,228,329,484,608,704,816,926,1033,1144,1244"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "773,869,951,1052,1207,1331,1427,1539,1649,1756,1867",
+                        "endColumns": "95,81,100,154,123,95,111,109,106,110,99",
+                        "endOffsets": "864,946,1047,1202,1326,1422,1534,1644,1751,1862,1962"
+                    }
+                }
+            ]
+        }
+    ]
+}

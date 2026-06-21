@@ -1,0 +1,1 @@
+// Root build.gradle – intentionally empty; all plugin configurations are in settings.gradle and module build files.

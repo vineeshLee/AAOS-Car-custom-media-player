@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/vineeshkumar/.gradle/daemon/8.2.1/com.example.musicplayer.app-merged_res-18:/drawable_ic_now_playing.xml.flat",
+        "source": "/Users/vineeshkumar/.gradle/daemon/8.2.1/com.example.musicplayer.app-main-20:/drawable/ic_now_playing.xml"
+    },
+    {
+        "merged": "/Users/vineeshkumar/.gradle/daemon/8.2.1/com.example.musicplayer.app-merged_res-18:/drawable_ic_prev.xml.flat",
+        "source": "/Users/vineeshkumar/.gradle/daemon/8.2.1/com.example.musicplayer.app-main-20:/drawable/ic_prev.xml"
+    },
+    {
+        "merged": "/Users/vineeshkumar/.gradle/daemon/8.2.1/com.example.musicplayer.app-merged_res-18:/drawable_ic_list.xml.flat",
+        "source": "/Users/vineeshkumar/.gradle/daemon/8.2.1/com.example.musicplayer.app-main-20:/drawable/ic_list.xml"
+    },
+    {
+        "merged": "/Users/vineeshkumar/.gradle/daemon/8.2.1/com.example.musicplayer.app-merged_res-18:/drawable_ic_grid.xml.flat",
+        "source": "/Users/vineeshkumar/.gradle/daemon/8.2.1/com.example.musicplayer.app-main-20:/drawable/ic_grid.xml"
+    },
+    {
+        "merged": "/Users/vineeshkumar/.gradle/daemon/8.2.1/com.example.musicplayer.app-merged_res-18:/drawable_ic_pause.xml.flat",
+        "source": "/Users/vineeshkumar/.gradle/daemon/8.2.1/com.example.musicplayer.app-main-20:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-18:/xml_automotive_app_desc.xml.flat",
+        "source": "com.example.musicplayer.app-main-20:/xml/automotive_app_desc.xml"
+    },
+    {
+        "merged": "/Users/vineeshkumar/.gradle/daemon/8.2.1/com.example.musicplayer.app-merged_res-18:/drawable_ic_play.xml.flat",
+        "source": "/Users/vineeshkumar/.gradle/daemon/8.2.1/com.example.musicplayer.app-main-20:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "/Users/vineeshkumar/.gradle/daemon/8.2.1/com.example.musicplayer.app-merged_res-18:/drawable_ic_music.xml.flat",
+        "source": "/Users/vineeshkumar/.gradle/daemon/8.2.1/com.example.musicplayer.app-main-20:/drawable/ic_music.xml"
+    },
+    {
+        "merged": "/Users/vineeshkumar/.gradle/daemon/8.2.1/com.example.musicplayer.app-merged_res-18:/drawable_ic_next.xml.flat",
+        "source": "/Users/vineeshkumar/.gradle/daemon/8.2.1/com.example.musicplayer.app-main-20:/drawable/ic_next.xml"
+    }
+]

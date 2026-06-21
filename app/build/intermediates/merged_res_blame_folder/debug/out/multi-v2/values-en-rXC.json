@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.musicplayer.app-mergeDebugResources-16:/values-en-rXC/values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "/Users/vineeshkumar/.gradle/caches/transforms-3/a4768c339e8ad8fc69573939c9769ba6/transformed/core-1.12.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,251,456,657,858,1065,1270,1482",
+                        "endColumns": "195,204,200,200,206,204,211,203",
+                        "endOffsets": "246,451,652,853,1060,1265,1477,1681"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,20",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,251,456,657,858,1065,1270,3796",
+                        "endColumns": "195,204,200,200,206,204,211,203",
+                        "endOffsets": "246,451,652,853,1060,1265,1477,3995"
+                    }
+                },
+                {
+                    "source": "/Users/vineeshkumar/.gradle/caches/transforms-3/e155434c146465c502e5bf4b45115440/transformed/jetified-app-automotive-1.4.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,254,436,640,897,1124,1323,1533,1745,1954,2168",
+                        "endColumns": "198,181,203,256,226,198,209,211,208,213,200",
+                        "endOffsets": "249,431,635,892,1119,1318,1528,1740,1949,2163,2364"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1482,1681,1863,2067,2324,2551,2750,2960,3172,3381,3595",
+                        "endColumns": "198,181,203,256,226,198,209,211,208,213,200",
+                        "endOffsets": "1676,1858,2062,2319,2546,2745,2955,3167,3376,3590,3791"
+                    }
+                }
+            ]
+        }
+    ]
+}
